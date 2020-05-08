@@ -1,0 +1,20 @@
+{
+  "name": "google-search",
+  "version": "1.0.0",
+  "description": "Implementation of google custom search API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Whizkevina/google-custom-search.git"
+  },
+  "keywords": [
+    "google",
+    "custom",
+    "search"
+  ],
+  "author": "Whizkevina",
+  "license": "ISC"
+}

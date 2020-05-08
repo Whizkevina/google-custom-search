@@ -1,0 +1,13 @@
+.search-box {
+    border-radius: 50%;
+}
+
+.img-result-shadow {
+    box-shadow: 4px 4px 4px gray;
+    /* margin-left: 5%; */
+}
+
+.web-result-shadow {
+    box-shadow: 4px 4px 4px gray;
+    margin-left: 5%;
+}
